@@ -1,5 +1,0 @@
----
-"@soulla/NodeProject": minor
----
-
-test
