@@ -1,5 +1,0 @@
----
-"@soulla/nodeano": minor
----
-
-ko
