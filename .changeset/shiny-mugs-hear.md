@@ -2,4 +2,4 @@
 "@soulla/nodeano": minor
 ---
 
-setting
+ko
