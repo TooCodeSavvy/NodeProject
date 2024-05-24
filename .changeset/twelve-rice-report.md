@@ -1,5 +1,5 @@
 ---
-"@soulla/starter": minor
+'@soulla/NodeProject': minor
 ---
 
 replaced some inputs
